@@ -46,7 +46,7 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 
 
-### 🔹 Tools & Technologies
+###  Tools & Technologies
 - **Visualization:** Power BI  
 - **Data Cleaning & Transformation:** Power Query  
 - **Metrics Calculation:** DAX  
@@ -83,7 +83,7 @@ This project demonstrates:
 
 
 
-## 👤 Author
+##  Author
 [Sureka Pararasa]  
 surekapararasa@gmail.com  
 [LinkedIn Profile](https://www.linkedin.com/in/sureka-pararasa/)  
