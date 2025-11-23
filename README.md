@@ -1,8 +1,8 @@
-# Customer Churn Analysis — Power BI
+# Customer Churn Analysis — Power BI & Report
 
-Analyzed **7,032 telecom customers** to understand who’s staying and who’s leaving using Power BI.  
+Analyzed **7,032 telecom customers** to understand who’s staying and who’s leaving using Power BI and a detailed Customer Churn Analysis Report.  
 
-The goal was to identify churn patterns, high-risk customer groups, and factors influencing customer retention, and to provide actionable recommendations.
+The goal was to identify churn patterns, high-risk customer groups, factors influencing retention, and provide actionable recommendations.
 
 
 
@@ -37,17 +37,28 @@ The goal was to identify churn patterns, high-risk customer groups, and factors 
 
 
 
+## 📝 Report Creation
+- Compiled a **formal Customer Churn Analysis Report using Canva**, including:  
+  - Key findings and insights  
+  - Interactive dashboards and charts exported as images  
+  - Recommendations for customer retention  
+- Demonstrates **storytelling with data** and translating metrics into actionable business strategies. 
+
+
+
 ## 🔹 Tools & Technologies
 - **Visualization:** Power BI  
 - **Data Cleaning & Transformation:** Power Query  
 - **Metrics Calculation:** DAX  
+- **Report Generation:** PDF and structured reporting  
 - **Dataset:** Telco customer demographics, services, and payment details  
 
 
 
-## 📊 Dashboards
-- **PDF version:** [`Telecom_Churn_Dashboard.pdf`](./Dashboards/Telecom_Churn_Dashboard.pdf)  
-- **Power BI (.PBIX) version:** [`Telecom_Churn_Dashboard.pbix`](./Dashboards/Telecom_Churn_Dashboard.pbix)  
+## 📊 Dashboards & Report
+- **PDF Dashboard:** [`Telecom_Churn_Dashboard.pdf`](./Churn_Analysis_Dashboard.pdf)  
+- **Power BI (.PBIX) Dashboard:** [`Telecom_Churn_Dashboard.pbix`](./Churn_Analysis_Dashboard.pbix)  
+- **Customer Churn Report PDF:** [`Telecom_Churn_Report.pdf`](./Reports/Churn_Report.pdf)  
 
 
 
@@ -55,7 +66,8 @@ The goal was to identify churn patterns, high-risk customer groups, and factors 
 1. Clone the repository:  
 git clone https://github.com/SurekaP1/Telecom_Customer_Churn_Analysis.git
 2. Open Power BI Desktop and load the `.pbix` file or connect to your dataset.  
-3. Refresh the dashboards to view updated visuals.  
+3. Refresh dashboards to view updated visuals.  
+4. Open the report PDF to review key findings, insights, and recommendations.  
 
 
 
@@ -71,4 +83,5 @@ This project demonstrates:
 - Data cleaning and preparation using Power Query  
 - Creation of calculated columns and DAX measures  
 - Designing interactive dashboards to visualize key insights  
-- Translating analysis into actionable business recommendations
+- Compiling a professional report to present insights and recommendations  
+- Translating analysis into actionable business strategies
