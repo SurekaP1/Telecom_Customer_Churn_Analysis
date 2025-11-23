@@ -46,8 +46,8 @@ The goal was to identify churn patterns, high-risk customer groups, and factors 
 
 
 ## 📊 Dashboards
-- **PDF version:** [`Telecom_Churn_Dashboard.pdf`](./Dashboards/Telecom Churn Dashboard.pdf)  
-- **Power BI (.PBIX) version:** [`Telecom_Churn_Dashboard.pbix`](./Dashboards/Telecom Churn Dashboard.pbix)  
+- **PDF version:** [`Telecom_Churn_Dashboard.pdf`](./Dashboards/Telecom_Churn_Dashboard.pdf)  
+- **Power BI (.PBIX) version:** [`Telecom_Churn_Dashboard.pbix`](./Dashboards/Telecom_Churn_Dashboard.pbix)  
 
 
 
