@@ -50,15 +50,15 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 - **Visualization:** Power BI  
 - **Data Cleaning & Transformation:** Power Query  
 - **Metrics Calculation:** DAX  
-- **Report Generation:** PDF and structured reporting  
+- **Report Generation:** PDF report via Canva with insights and dashboards  
 - **Dataset:** Telco customer demographics, services, and payment details  
 
 
 
 ## 📊 Dashboards & Report
 
-- **PDF Dashboard:** [Churn Analysis Dashboard.pdf](./Churn Analysis Dashboard.pdf)  
-- **Power BI Dashboard (.PBIX):** [Churn Analysis Dashboard.pbix](./Churn Analysis Dashboard.pbix)  
+- **PDF Dashboard:** [Churn Analysis Dashboard.pdf](./Churn_Analysis_Dashboard.pdf)  
+- **Power BI Dashboard (.PBIX):** [Churn Analysis Dashboard.pbix](./Churn_Analysis_Dashboard.pbix)  
 - **Customer Churn Report PDF:** [Churn Analysis Report.pdf](./Report.pdf)
 
 
