@@ -57,10 +57,11 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 ## 📊 Dashboards & Report
 
-- **PDF Dashboard:** [Churn Analysis Dashboard.pdf](./Churn_Analysis_Dashboard.pdf)  
-- **Power BI Dashboard (.PBIX):** [Churn Analysis Dashboard.pbix](./Churn_Analysis_Dashboard.pbix)  
-- **Customer Churn Report PDF:** [Churn Analysis Report.pdf](./Report.pdf)
+- **PDF Dashboard:** [Download Churn Analysis Dashboard.pdf](./Churn%20Analysis%20Dashboard.pdf)  
+- **Power BI Dashboard (.PBIX):** [Download Churn Analysis Dashboard.pbix](./Churn%20Analysis%20Dashboard.pbix)  
+- **Customer Churn Report PDF:** [Download Churn Analysis Report.pdf](./Report.pdf)
 
+> ⚠️ Note: PDF and PBIX files cannot be previewed directly on GitHub. Please download to view.
 
 
 ## 📘 How to Run the Project
