@@ -6,7 +6,7 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 
 
-## 💡 Key Analysis Areas
+### 💡 Key Analysis Areas
 
 **Customer Base & Churn**
 - Total customers: 7,032  
@@ -28,7 +28,7 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 
 
-## 📌 Recommendations
+### 📌 Recommendations
 - Implement retention strategies for early-tenure and high-risk customers  
 - Provide senior-friendly support and communication  
 - Encourage automatic payments for better retention  
@@ -37,7 +37,7 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 
 
-## 📝 Report Creation
+### 📝 Report Creation
 - Compiled a **formal Customer Churn Analysis Report using Canva**, including:  
   - Key findings and insights  
   - Interactive dashboards and charts exported as images  
@@ -46,7 +46,7 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 
 
-## 🔹 Tools & Technologies
+### 🔹 Tools & Technologies
 - **Visualization:** Power BI  
 - **Data Cleaning & Transformation:** Power Query  
 - **Metrics Calculation:** DAX  
@@ -55,16 +55,15 @@ The goal was to identify churn patterns, high-risk customer groups, factors infl
 
 
 
-## 📊 Dashboards & Report
+### 📊 Dashboards & Report
 
-- **PDF Dashboard:** [Download Churn Analysis Dashboard.pdf](./Churn%20Analysis%20Dashboard.pdf)  
-- **Power BI Dashboard (.PBIX):** [Download Churn Analysis Dashboard.pbix](./Churn%20Analysis%20Dashboard.pbix)  
-- **Customer Churn Report PDF:** [Download Churn Analysis Report.pdf](./Report.pdf)
-
-> ⚠️ Note: PDF and PBIX files cannot be previewed directly on GitHub. Please download to view.
+- **PDF Dashboard:** [Churn Analysis Dashboard.pdf](./Churn_Analysis_Dashboard.pdf)  
+- **Power BI Dashboard (.PBIX):** [Churn Analysis Dashboard.pbix](./Churn_Analysis_Dashboard.pbix)  
+- **Customer Churn Report PDF:** [Churn Analysis Report.pdf](./Report.pdf)
 
 
-## 📘 How to Run the Project
+
+### 📘 How to Run the Project
 1. Clone the repository:  
 git clone https://github.com/SurekaP1/Telecom_Customer_Churn_Analysis.git
 2. Open Power BI Desktop and load the `.pbix` file or connect to your dataset.  
@@ -73,17 +72,18 @@ git clone https://github.com/SurekaP1/Telecom_Customer_Churn_Analysis.git
 
 
 
-## 👤 Author
-[Sureka Pararasa]  
-surekapararasa@gmail.com  
-[LinkedIn Profile](https://www.linkedin.com/in/sureka-pararasa/)  
 
-
-
-## 📚 Project Summary
+### 📚 Project Summary
 This project demonstrates:  
 - Data cleaning and preparation using Power Query  
 - Creation of calculated columns and DAX measures  
 - Designing interactive dashboards to visualize key insights  
 - Compiling a professional report to present insights and recommendations  
 - Translating analysis into actionable business strategies
+
+
+
+## 👤 Author
+[Sureka Pararasa]  
+surekapararasa@gmail.com  
+[LinkedIn Profile](https://www.linkedin.com/in/sureka-pararasa/)  
